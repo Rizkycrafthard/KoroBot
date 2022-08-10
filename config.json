@@ -1,0 +1,15 @@
+{
+  "ownerNumber": ["6283178438902@s.whatsapp.net"],
+  "ownerName": "Rizky Syahputra",
+  "BotName": "™Koro-Botz™",
+  "Footer": "© _Koro-Botz official_",
+  "email": "andra0628@gmail.com",
+  "website": "https://github.com/Lexxy24",
+  "region": "indonesia",
+  "pathimg": "./media/neobot.jpg",
+  "limitCount": 40,
+  "gcount": {
+	"prem": 9999,
+	"user": 30
+  }
+}
