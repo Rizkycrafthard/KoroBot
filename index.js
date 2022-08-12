@@ -59,12 +59,12 @@ console.log(color(figlet.textSync('RIZKYBOT', {
         }), 'blue'))
         
 console.log(color('\nBot dibuat oleh Rizky Syahputra','red'))
-console.log(color('RizkyBot : Versi 1.0\n','red'))
+console.log(color('KoroBotz: Versi 1.0\n','red'))
         
     const neobot = neobotConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['RizkyBot','palakau','1.0.0'],
+        browser: ['Koro-Botz','palakau','1.0.0'],
         auth: state
     })
 
